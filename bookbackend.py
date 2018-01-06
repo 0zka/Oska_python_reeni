@@ -1,5 +1,5 @@
 import sqlite3
-
+# moi
 DATABASE = "bookstore.db"
 
 def create_table():
